@@ -12,11 +12,11 @@
                      </li>
                      <li class="phone">
                         <i class="fa-solid fa-phone icon-phone"></i>
-                        <a style="color: orange;text-decoration: none;" href="tel:+84 56668888">+847963921246</a>
+                        <a style="color: orange;text-decoration: none;" href="tel:+84796392124">+847963921246</a>
                      </li>
                      <li class="email">
                         <i class="fa-solid fa-envelope icon-email"></i>
-                        <a style=" color: orange;ext-decoration: none;" href="mailto:kiettruong@gmail.com">quangminh2021202@gmail.com</a>
+                        <a style=" color: orange;ext-decoration: none;" href="mailto:quangminh2021202@gmail.com">quangminh2021202@gmail.com</a>
 
                      </li>
                   </ul>

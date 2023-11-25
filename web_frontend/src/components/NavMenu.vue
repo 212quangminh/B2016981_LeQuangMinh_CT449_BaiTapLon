@@ -14,7 +14,7 @@
                   </router-link>
                </li> -->
                <li class="nav-item">
-                  <router-link to="Menu" class="nav-link"><i class="fa-solid fa-basketball"></i> Shop NBA
+                  <router-link to="/" class="nav-link"><i class="fa-solid fa-basketball"></i> Shop NBA
                     
                   </router-link>
                </li>
